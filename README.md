@@ -5,6 +5,7 @@ API para cadastro de eventos e palestrantes
 - Visual Studio 2022
 - ASP.NET Core 7
 - EF Core
+- Documentação SWAGGER
 
 # Funcionalidades
 - Cadastro, Listagem, Detalhes, Atualização, e Remoção de Evento
